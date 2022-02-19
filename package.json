@@ -1,0 +1,17 @@
+{
+  "name": "monkeybot",
+  "version": "0.1",
+  "description": "Monkey Bot is a bot for both entertainement and moderation!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "author": "IceGod",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.5.0",
+    "discord-button-pages": "^1.1.9",
+    "discord.js": "^13.1.0",
+    "fs": "^0.0.1-security"
+  }
+}
